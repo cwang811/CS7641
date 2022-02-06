@@ -1,4 +1,4 @@
-1. I choose jupyter notebook and using python to run this assignment.
+1. I choose jupyter notebook and using python to run this assignment. Code is located in Github address :         https://github.com/cwang811/CS7641/blob/main/Cwang811_Assignment1/Supervised%20Learning.ipynb
 2. I use pandas, sklearn library and other plot libaray like pytorch to work on this assignment.
 3. The  datasets can be downloaded using this URL:
 (1).Dataset on diabetes dataset : https://github.com/cwang811/CS7641/blob/main/Cwang811_Assignment1/diabetes_data.csv
